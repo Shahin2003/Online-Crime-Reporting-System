@@ -1,2 +1,2 @@
-# Crime
- Organized system for reporting crime.
+The online Crime Reporting System is a project for reporting complaints of any crimes. The project contains the users’ side ,admin’s side and also the police side . The user can either be victims or complainers. The purpose of reporting complaints to the police is to get help for solving the situation or crime registered.
+The users as complainers can simply register the complaint with all the details required and submit it. While the police officers can log in and manage the complaints of all users. The officers can be a head, in-charge, or normal police. The admin will be able to register the police officer.
